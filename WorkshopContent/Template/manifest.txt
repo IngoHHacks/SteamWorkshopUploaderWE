@@ -1,0 +1,4 @@
+modName: Template
+author: IngoH
+version: 1.0.0
+assemblyHash: 0dc5c6b20c3b5d489dea77d1fd5919344dd4ba3f9f16a9df26c44a5379ffa21f
